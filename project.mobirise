@@ -28,7 +28,8 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
-        "#45505b"
+        "#45505b",
+        "#676767"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1842,6 +1843,9 @@
                 "width": "auto",
                 "margin": "auto"
               }
+            },
+            ".testimonial-text P": {
+              "color": "#232323"
             }
           },
           "_name": "testimonials3",
